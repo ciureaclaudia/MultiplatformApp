@@ -1,0 +1,12 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+
+# macOS and Windows specific
+.DS_Store
+Thumbs.db
